@@ -1,0 +1,38 @@
+.text1{
+    position: absolute;
+    font-size: 3vw; /* Responsive font size based on viewport width */
+    font-family: "Playfair Display", serif;
+    bottom: 26vw;
+    left: 41vw;
+}
+
+.text2{
+    position: absolute;
+    font-size: 3vw; /* Responsive font size based on viewport width */
+    font-family: "Playfair Display", serif;
+    top: 20.5vw;
+    left: 31.5vw;
+}
+
+.text3{
+    position: absolute;
+    font-size: 1.5vw; /* Responsive font size based on viewport width */
+    font-family: "Playfair Display", serif;
+    top: 29vw;
+    left: 39vw;
+}   
+
+.SI {position: absolute;
+    height: 50vw; /* Responsive height */
+    width: 99vw; /* Full width */
+    left: 0vw; /* Adjust as per your design */
+    top: 0.2vw; /* Adjust as per your design */
+}
+ 
+.yt{
+    position: absolute;
+    height: 45vw; /* Responsive height */
+    width: 99vw; /* Full width */
+    left: 0vw; /* Adjust as per your design */
+    top: 55vw; /* Adjust as per your design */
+}

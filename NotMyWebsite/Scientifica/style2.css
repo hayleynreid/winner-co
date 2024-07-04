@@ -1,0 +1,18 @@
+.hand1 {
+    position: relative;
+    bottom: 7vw; /* Adjust as per your design */
+    height: 53vw; /* Responsive height */
+    width: 38vw; /* Responsive width */
+    left: 30vw; /* Adjust as per your design */
+}
+
+.text{
+    font-size: 3vw; /* Responsive font size based on viewport width */
+    font-family: "Chakra Petch", sans-serif;
+   }
+
+   .date3 {
+    font-size: 2vw; /* Responsive font size */
+    font-family: "Chakra Petch", sans-serif;
+}
+

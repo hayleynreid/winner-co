@@ -1,0 +1,39 @@
+.GA{
+    position: absolute;
+    height: 50vw; /* Responsive height */
+    width: 99vw; /* Full width */
+    left: 0vw; /* Adjust as per your design */
+    top: 0.2vw; /* Adjust as per your design */
+}
+
+.yt1{
+    position: absolute;
+    height: 45vw; /* Responsive height */
+    width: 99vw; /* Full width */
+    left: 0vw; /* Adjust as per your design */
+    top: 55vw; /* Adjust as per your design */
+}
+
+.text4{
+    position: absolute;
+    font-size: 3vw; /* Responsive font size based on viewport width */
+    font-family: "Playfair Display", serif;
+    bottom: 26vw;
+    left: 39vw;
+}
+
+.text5{
+    position: absolute;
+    font-size: 3vw; /* Responsive font size based on viewport width */
+    font-family: "Playfair Display", serif;
+    bottom: 20vw;
+    left: 35vw;
+}
+
+.text6{
+    position: absolute;
+    font-size: 1.5vw; /* Responsive font size based on viewport width */
+    font-family: "Playfair Display", serif;
+    bottom: 16vw;
+    left: 40vw;
+}

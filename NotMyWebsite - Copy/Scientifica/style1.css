@@ -1,0 +1,104 @@
+.hand1 {
+    position: relative;
+bottom: 130px ;
+    height: 800px;
+    width: 550px; 
+    left: 400px
+}
+
+.GA {
+    position: relative;
+    height: 700px;
+    width: 1350px; 
+    left: -10px;
+    top: -8px
+}
+
+.TIG {
+    position: relative;
+    height: 700px;
+    width: 1350px;
+    left: -10px;
+    top: -8px
+
+}
+
+.BB {
+    position: relative;
+    height: 700px;
+    width: 1350px;
+    left: -5px;
+    top: -8px
+    
+}
+
+.OA {
+    position: relative;
+    height: 700px;
+    width: 1355px;
+    left: -4px;
+    top: -8px
+}
+
+.SI {
+    position: relative;
+    height: 700px;
+    width: 1355px; 
+    left: -4px;    
+    top: -8px   
+
+}
+
+.TTE {
+    position: relative;
+    height: 700px;
+    width: 1355px;
+    left: -4px;
+    top: -8px
+    
+}
+
+.BBtext {
+    position: relative;
+    height: 170px;
+    width: 340px;
+    left: 500px;
+}
+
+.Sciencetext {
+    position: relative;
+    height: 210px;
+    width: 420px;
+    left: -90px;
+    top: 100px;
+}
+
+.Biotext {
+    position: relative;
+    height: 30px;
+    width: 100px;
+    left: -360px;
+    bottom: -350px
+}
+
+.Psytext {
+    position: relative;
+    height: 23px;
+    width: 110px;
+    left: -468px;
+    bottom: -230px;
+}
+
+.Quiztext {
+    position: relative;
+    height: 25px;
+    width: 80px;
+    left: -360px;
+    bottom: -350px
+}
+
+.date3{
+    font-family: "Signika Negative", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+}

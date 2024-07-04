@@ -1,0 +1,61 @@
+/* General styles */
+.text, .text1, .text2, .text3, .text4, .text5, .text6 {
+    font-size: 3.5vw; /* Responsive font size based on viewport width */
+}
+
+.date3 {
+    font-size: 1.5vw; /* Responsive font size */
+}
+
+/* Container styles (adjust as per your layout needs) */
+.hand1 {
+    position: relative;
+    bottom: 16vw; /* Adjust as per your design */
+    height: 80vw; /* Responsive height */
+    width: 50vw; /* Responsive width */
+    left: 28vw; /* Adjust as per your design */
+}
+
+.GA, .SI {
+    position: relative;
+    height: 77vw; /* Responsive height */
+    width: 100vw; /* Full width */
+    left: -0.6vw; /* Adjust as per your design */
+    top: -1vw; /* Adjust as per your design */
+}
+
+.TIG, .BB, .OA, .TTE {
+    position: relative;
+    height: 70vw; /* Responsive height */
+    width: 88vw; /* Responsive width */
+    left: -0.6vw; /* Adjust as per your design */
+    top: -1vw; /* Adjust as per your design */
+}
+
+/* Media queries for responsiveness */
+@media only screen and (max-width: 768px) {
+    .text, .text1, .text2, .text3, .text4, .text5, .text6 {
+        font-size: 5vw; /* Adjust font size for smaller screens */
+    }
+
+    .date3 {
+        font-size: 3vw; /* Adjust font size for smaller screens */
+    }
+
+    .hand1 {
+        bottom: 20vw; /* Adjust position for smaller screens */
+        height: 70vw; /* Adjust dimensions for smaller screens */
+        width: 80vw; /* Adjust dimensions for smaller screens */
+        left: 10vw; /* Adjust position for smaller screens */
+    }
+
+    .GA, .SI {
+        height: 80vw; /* Adjust dimensions for smaller screens */
+        width: 100vw; /* Full width */
+    }
+
+    .TIG, .BB, .OA, .TTE {
+        height: 60vw; /* Adjust dimensions for smaller screens */
+        width: 85vw; /* Adjust dimensions for smaller screens */
+    }
+}
